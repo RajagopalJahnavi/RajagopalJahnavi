@@ -5,7 +5,7 @@
 
 I'm
 Full Stack Web Developer.
-My name is Jahnavi.I am an Information Technology engineering student . At present I am pursuing internships in Full Stack Web Development and Machine Learning . My aim is to develop a good website . I have a wide range of knowledge in programming languages that include c programming,python,java,html . I have knowledge in machine learning and also I have done some mini projects related to it. 
+My name is Jahnavi . I am an Information Technology engineering student . At present I am pursuing internships in Full Stack Web Development and Machine Learning . My aim is to develop a good website . I have a wide range of knowledge in programming languages that include c programming,python,java,html . I have knowledge in machine learning and also I have done some mini projects related to it. 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/RajagopalJahnavi/count.svg)
