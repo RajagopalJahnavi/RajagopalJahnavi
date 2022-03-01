@@ -19,7 +19,7 @@ My name is Jahnavi . I am an Information Technology engineering student . At pre
 
 Languages and Tools: 
 
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/> <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=flat-square&logo=html&logoColor=white"/><img alt="c" src="https://img.shields.io/badge/c-%23FF26BE.svg?style=flat-square&logo=c&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%230072C6.svg?style=flat-square&logo=python-devops&logoColor=white"/> <img alt="ML" src="https://img.shields.io/badge/ML-%2300f.svg?style=flat-square&logo=ML&logoColor=white"/>
+<img alt="c" src="https://img.shields.io/badge/c-%23FF26BE.svg?style=flat-square&logo=c&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%230072C6.svg?style=flat-square&logo=python-devops&logoColor=white"/> <img alt="ML" src="https://img.shields.io/badge/ML-%2300f.svg?style=flat-square&logo=ML&logoColor=white"/><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/> <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=flat-square&logo=html&logoColor=white"/>
 ![](https://activity-graph.herokuapp.com/graph?username=RajagopalJahnavi&theme=react-dark&area=true)
 <!--
 **RajagopalJahnavi/RajagopalJahnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
