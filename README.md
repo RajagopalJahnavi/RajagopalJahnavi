@@ -19,7 +19,7 @@ My name is Jahnavi . I am an Information Technology engineering student . At pre
 
 Languages and Tools: 
 
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/> <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/> <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
 
 ![](https://activity-graph.herokuapp.com/graph?username=RajagopalJahnavi&theme=react-dark&area=true)
 <!--
