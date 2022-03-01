@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Jahnavi-yellow)](https://stackoverflow.com/users/18259265/jahnavi)
 
 I'm
-Full Stack Developer
+Full Stack Web Developer.
 My name is Jahnavi.I am an Information Technology engineering student . At present I am pursuing internships in Full Stack Web Development and Machine Learning . My aim is to develop a good website . I have a wide range of knowledge in programming languages that include c programming,python,java,html . I have knowledge in machine learning and also I have done some mini projects related to it. 
 
 
