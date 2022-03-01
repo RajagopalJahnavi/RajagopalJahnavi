@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Jahnavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/rajagopal-jahnavi-0692b1232/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Jahnavi-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Jahnavi-green)](https://rajagopaljahnavi.github.io/JahnaviProfile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Jahnavi-yellow)](https://stackoverflow.com/users/18259265/jahnavi)
 
 I'm
