@@ -4,16 +4,6 @@
 
 B.Tech IT graduate with expertise in Java and Python. Experienced in applying data structures and algorithms, and developing machine learning and deep learning models through hands-on projects. With a focus on problem-solving, I am passionate about using technology to address complex challenges and contribute to impactful projects. Always looking to advance my technical skills and make a meaningful contribution.
 
-
-![Visitor Count](https://profile-counter.glitch.me/RajagopalJahnavi/count.svg)
-
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RajagopalJahnavi&column=7"/>
-  </a>
-</div>
-
 Languages and Tools: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&)
